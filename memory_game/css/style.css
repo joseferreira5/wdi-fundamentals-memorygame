@@ -2,20 +2,39 @@ body {
   text-align: center;
 }
 
+header {
+  background-color: #F15B31;
+  color: #FFFFFF;
+  padding: 30px 20px;
+  margin: 0;
+}
+
 h1 {
   font-family: "Raleway", sans-serif;
-  color: #0D2C40;
   letter-spacing: 1px;
   font-weight: 400;
   font-size: 45px;
+  margin: 0;
+}
+
+nav {
+  background-color: #00A6B3;
+  color: #FFFFFF;
+  padding: 20px 0;
 }
 
 a {
   font-family: "Railway", sans-serif;
-  color: #F15B31;
+  color: #FFFFFF;
   letter-spacing: 1px;
   font-weight: 600;
   font-size: 18px;
+  margin: 0 20px;
+}
+
+main {
+  width: 850px;
+  margin: 35px auto;
 }
 
 h2 {
@@ -30,5 +49,9 @@ p {
   font-family: "Droid Serif", sans-serif;
   line-height: 26px;
   font-size: 18px;
+}
+
+img {
+  margin: 40px 8px;
 }
 
