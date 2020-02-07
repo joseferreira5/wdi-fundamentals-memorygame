@@ -1,95 +1,95 @@
 body {
-  text-align: center;
+	text-align: center;
 }
 
 header {
-  background-color: #F15B31;
-  color: #FFFFFF;
-  padding: 30px 20px;
-  margin: 0;
+	background-color: #f15b31;
+	color: #ffffff;
+	padding: 30px 20px;
+	margin: 0;
 }
 
 h1 {
-  font-family: "Raleway", sans-serif;
-  letter-spacing: 1px;
-  font-weight: 400;
-  font-size: 45px;
-  margin: 0;
+	font-family: 'Raleway', sans-serif;
+	letter-spacing: 1px;
+	font-weight: 400;
+	font-size: 45px;
+	margin: 0;
 }
 
 nav {
-  background-color: #00A6B3;
-  color: #FFFFFF;
-  padding: 20px 0;
+	background-color: #00a6b3;
+	color: #ffffff;
+	padding: 20px 0;
 }
 
 a {
-  font-family: "Railway", sans-serif;
-  color: #FFFFFF;
-  letter-spacing: 1px;
-  font-weight: 600;
-  font-size: 18px;
-  margin: 0 20px;
-  border-bottom: 2px solid transparent;
+	font-family: 'Railway', sans-serif;
+	color: #ffffff;
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-size: 18px;
+	margin: 0 20px;
+	border-bottom: 2px solid transparent;
 }
 
 a:hover {
-  border-bottom: 2px solid #FFFFFF;
+	border-bottom: 2px solid #ffffff;
 }
 
 main {
-  width: 850px;
-  margin: 35px auto;
+	width: 850px;
+	margin: 35px auto;
 }
 
 h2 {
-  font-family: "Raleway", sans-serif;
-  color: #0D2C40;
-  letter-spacing: 1px;
-  font-weight: 600;
-  font-size: 20px;
+	font-family: 'Raleway', sans-serif;
+	color: #0d2c40;
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-size: 20px;
 }
 
 p {
-  font-family: "Droid Serif", sans-serif;
-  line-height: 26px;
-  font-size: 18px;
+	font-family: 'Droid Serif', sans-serif;
+	line-height: 26px;
+	font-size: 18px;
 }
 
 img {
-  margin: 40px 8px;
+	margin: 40px 8px;
 }
 
 footer {
-  text-transform: uppercase;
-  padding: 0 20px;
-  background-color: #0D2C40;
-  color: #FFFFFF;
-  font-size: 14px;
-  letter-spacing: 0.08em;
-  font-weight: 500;
+	text-transform: uppercase;
+	padding: 0 20px;
+	background-color: #0d2c40;
+	color: #ffffff;
+	font-size: 14px;
+	letter-spacing: 0.08em;
+	font-weight: 500;
 }
 
-.coyright {
-  font-family: "Raleway", serif;
-  float: left;
+.copyright {
+	font-family: 'Raleway', serif;
+	float: left;
 }
 
 .message {
-  font-family: "Raleway", serif;
-  float: right;
+	font-family: 'Raleway', serif;
+	float: right;
 }
 
 .name {
-  color: #F15B31;
-  font-weight: 700;
+	color: #f15b31;
+	font-weight: 700;
 }
 
 .clearfix:after {
-  visibility: hidden;
-  display: block;
-  content: " ";
-  clear: both;
-  height: 0;
-  font-size: 0;
+	visibility: hidden;
+	display: block;
+	content: ' ';
+	clear: both;
+	height: 0;
+	font-size: 0;
 }
